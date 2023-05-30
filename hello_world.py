@@ -1,5 +1,5 @@
 print("Hello World!")
 print("bye world!")
-
 print('vivre rire aimer!')
-print('Vivre!?')
+print('For conflict')
+print('Bye Github for now!')
