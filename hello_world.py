@@ -2,4 +2,5 @@ print("Hello World!")
 print("bye world!")
 print('vivre rire aimer!')
 
-print('I need conflict!')
+print('For conflict')
+print('Goodbye Assg1 !!!!')
